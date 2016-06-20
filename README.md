@@ -1,4 +1,4 @@
 TestRepo-SrishtiESDM
 ====================
 
-To test the functional status of the repository with Windows 7, this repository is created. There is no content in this repository.
+To test the functional status of the repository. This includes camera SDK which is used to decode the barcodes and QR codes.
